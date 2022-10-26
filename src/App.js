@@ -3,12 +3,12 @@ import Main from "./components/layout/Main";
 import Header from "./components/layout/Header";
 import Footer from "./components/layout/Footer";
 
-import Slider from "./components/section/Slider";
 import Image from "./components/section/Image";
 import ImgText from "./components/section/ImgText";
 import Card from "./components/section/Card";
 import Banner from "./components/section/Banner";
 import Text from "./components/section/Text";
+import Slider from "./components/section/Slider";
 
 function App() {
   return (
